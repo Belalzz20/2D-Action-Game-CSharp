@@ -15,7 +15,7 @@ Players must defeat enemies, avoid obstacles and projectiles, and progress throu
 
 ### Level 1 – Mountain Adventure
 
-![Level 1](screenshots/level1.png)
+![Level 1](screenshots/Level%201.png)
 
 The first level introduces the player to the game's basic movement and shooting mechanics.
 
@@ -29,7 +29,7 @@ The first level introduces the player to the game's basic movement and shooting 
 
 ### Level 2 – Sky Battle
 
-![Level 2](screenshots/level2.png)
+![Level 2](screenshots/Level%202.png)
 
 The second level introduces additional enemy types and more challenging combat mechanics.
 
@@ -43,7 +43,7 @@ The second level introduces additional enemy types and more challenging combat m
 
 ### Level 3 – Final Challenge
 
-![Level 3](screenshots/level3.png)
+![Level 3](screenshots/Level%203.png)
 
 The final level introduces a cave environment with additional obstacles, collectibles, and a boss encounter.
 
