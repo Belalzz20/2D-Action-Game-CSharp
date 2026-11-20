@@ -1,0 +1,72 @@
+C:\Users\huawei\source\repos\long game\long game\bin\Debug\long game.exe.config
+C:\Users\huawei\source\repos\long game\long game\bin\Debug\long game.exe
+C:\Users\huawei\source\repos\long game\long game\bin\Debug\long game.pdb
+C:\Users\huawei\source\repos\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\huawei\source\repos\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\huawei\source\repos\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\huawei\source\repos\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\huawei\source\repos\long game\long game\obj\Debug\long game.exe
+C:\Users\huawei\source\repos\long game\long game\obj\Debug\long game.pdb
+C:\Users\asus\Downloads\long game\long game\bin\Debug\long game.exe.config
+C:\Users\asus\Downloads\long game\long game\bin\Debug\long game.exe
+C:\Users\asus\Downloads\long game\long game\bin\Debug\long game.pdb
+C:\Users\asus\Downloads\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\asus\Downloads\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\long game\long game\obj\Debug\long game.exe
+C:\Users\asus\Downloads\long game\long game\obj\Debug\long game.pdb
+C:\Users\huawei\Desktop\longg\long game\long game\bin\Debug\long game.exe.config
+C:\Users\huawei\Desktop\longg\long game\long game\bin\Debug\long game.exe
+C:\Users\huawei\Desktop\longg\long game\long game\bin\Debug\long game.pdb
+C:\Users\huawei\Desktop\longg\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\longg\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\huawei\Desktop\longg\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\longg\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\longg\long game\long game\obj\Debug\long game.exe
+C:\Users\huawei\Desktop\longg\long game\long game\obj\Debug\long game.pdb
+C:\Users\asus\Desktop\longg\long game\long game\bin\Debug\long game.exe.config
+C:\Users\asus\Desktop\longg\long game\long game\bin\Debug\long game.exe
+C:\Users\asus\Desktop\longg\long game\long game\bin\Debug\long game.pdb
+C:\Users\asus\Desktop\longg\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\longg\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\asus\Desktop\longg\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\longg\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\longg\long game\long game\obj\Debug\long game.exe
+C:\Users\asus\Desktop\longg\long game\long game\obj\Debug\long game.pdb
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\bin\Debug\long game.exe.config
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\bin\Debug\long game.exe
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\bin\Debug\long game.pdb
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\obj\Debug\long game.exe
+C:\Users\huawei\Desktop\lalal\longg\long game\long game\obj\Debug\long game.pdb
+C:\Users\asus\Downloads\lalal\longg\long game\long game\bin\Debug\long game.exe.config
+C:\Users\asus\Downloads\lalal\longg\long game\long game\bin\Debug\long game.exe
+C:\Users\asus\Downloads\lalal\longg\long game\long game\bin\Debug\long game.pdb
+C:\Users\asus\Downloads\lalal\longg\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\lalal\longg\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\asus\Downloads\lalal\longg\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\lalal\longg\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\lalal\longg\long game\long game\obj\Debug\long game.exe
+C:\Users\asus\Downloads\lalal\longg\long game\long game\obj\Debug\long game.pdb
+C:\Users\asus\Desktop\long game\longg\long game\long game\bin\Debug\long game.exe.config
+C:\Users\asus\Desktop\long game\longg\long game\long game\bin\Debug\long game.exe
+C:\Users\asus\Desktop\long game\longg\long game\long game\bin\Debug\long game.pdb
+C:\Users\asus\Desktop\long game\longg\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\long game\longg\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\asus\Desktop\long game\longg\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\long game\longg\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\long game\longg\long game\long game\obj\Debug\long game.exe
+C:\Users\asus\Desktop\long game\longg\long game\long game\obj\Debug\long game.pdb
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\bin\Debug\long game.exe.config
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\bin\Debug\long game.exe
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\bin\Debug\long game.pdb
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\obj\Debug\long game.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\obj\Debug\long_game.Properties.Resources.resources
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\obj\Debug\long game.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\obj\Debug\long game.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\obj\Debug\long game.exe
+C:\Users\huawei\Desktop\lol\long game\longg\long game\long game\obj\Debug\long game.pdb
